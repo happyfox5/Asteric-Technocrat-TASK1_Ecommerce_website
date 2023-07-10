@@ -11,3 +11,18 @@ Pages for home, products, cart, contact, login, and registration
 Eye-catching marquee element with a welcome message
 Details section with an image and descriptive text about the website
 Stylish footer with copyright information
+
+Technologies Used
+HTML: Used for structuring the web pages.
+CSS: Used for styling the web pages and adding animations.
+JavaScript: Can be added to enhance interactivity and functionality.
+
+Folder Structure
+ecommerce.html: The main home page of the website.
+product.html: The page displaying the available products.
+cart.html: The page displaying the user's shopping cart.
+contact.html: The page providing contact information and a form for inquiries.
+login.html: The page for user login.
+register.html: The page for user registration.
+E.css: The CSS file containing additional styles for the website.
+ecommerce.jpg: The image used in the details section.
